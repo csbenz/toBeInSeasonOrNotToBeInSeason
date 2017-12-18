@@ -7,7 +7,9 @@
   <em>Data story for the end-of-semester project of the ADA course at EPFL.</em>
 </p>
 
-
+<p>
+  This page is best viewed in Chromium. Other browsers such as Firefox may not display some mvisualizations.
+</p>
 
 
 <h1>Introduction</h1>
