@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  This page is best viewed in Chromium. Other browsers such as Firefox may not display some mvisualizations.
+  This page is best viewed in the Chromium browser. Other browsers such as Firefox may not display some mvisualizations correctly.
 </p>
 
 
