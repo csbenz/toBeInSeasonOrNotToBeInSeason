@@ -3,7 +3,8 @@
 Blablabla
 
 
-<script src="http://gist-it.appspot.com/http://github.com/csbenz/toBeInSeasonOrNotToBeInSeason/raw/master/map_test.html"></script>
-
 
 <p><iframe src="map_test.html" width="100%" height="400">hmm kay</iframe></p>
+
+
+<p><iframe src="https://raw.githubusercontent.com/csbenz/toBeInSeasonOrNotToBeInSeason/master/map_test.html" width="100%" height="400">hmm kay</iframe></p>
