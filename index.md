@@ -15,18 +15,25 @@
 
 <h1>Introduction</h1>
 
+<p>
 Are we eating foods when we are supposed to?
+  </p>
 
+<p>
 From the dawn of humankind, man has evolved to find, hunt or grow food. Whether it is a
 freshly killed bear or home-grown crops there is a great knowledge as to how exactly to
 proceed. It has been acquired by generations leading to the fine abundance and choice we
 have today.
+  </p>
 
+<p>
 One of the key aspects is the time. The season when the crops have been planted
 ultimately decides when they can be harvested to make some great bread, just as the mating
 period of animals indicates the best time to hunt for them. Moreover, in case of crops, the time
 of planting decided if they are going to service or not.
+</p>
 
+<p>
 Hopefully we have convinced you enough that time of season makes a great difference. This is at the core of our study.
 Every food has its season, for example oranges - winter and sweet potatoes - summer. There has not been
 a proper study to investigate if consuming foods during their natural seasons has any health
@@ -34,16 +41,20 @@ benefits, but one could potentially imagine such as the unseasoned foods are usu
 from far away and so either treated with preservatives or are not so fresh. Therefore there are
 two aspects we are doing to look at: the season the foods are naturally produced, and the area
 where they are naturally produced.
+</p>
 
 <h1>Data analysis</h1>
 
+<p>
 First off let us explain how we obtained all the data. We found two websites containing
 information about food and their seasons: “eat the seasons” and “seasonal food guide”. We
 crawled both. The “eat the seasons” is advantageous as it contains information about greater
 range of foods: meat, fish, vegetables, but not information about the native area. The “seasonal
 food guide” contains all the needed information but covers only vegetables. Further on we
 explain the usage of each.
+</p>
 
+<p>
 Once we had the information about the foods and their native region, we picked up one of the
 proposed datasets. In order to estimate the consumption of different foods we base our
 estimate on recipes. A recipe contains the list of ingredients that directly correspondents to our
@@ -54,12 +65,15 @@ use the recipe as soon as it is posted and so they react to it, or people come b
 regularly, as for example people would come back to the recipe of Thanksgiving turkey every
 year the same month. As a result we have an estimate of human consumption patterns per
 food.
+</p>
 
+<p>
 In order to rank the food consumption as seasonal or not we introduce a score. That score is
 equal to the 6 minus the number of months in between the month in question and the closest
 month of the season for that food. It allows for the difference to be both ways and it measures
 the time to the closest season month. This metric also allows to estimate how far the
 production of the food in question has to be to accommodate thermal requirements.
+</p>
 
 ….map…
 
