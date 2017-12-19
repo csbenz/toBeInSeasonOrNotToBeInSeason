@@ -102,7 +102,7 @@ summer and autumn there is much more un seasonal consumption.
 
 <img src="sc3.jpeg" >
 
-<!--<link rel="import" href="us_map.html">-->
+<iframe src="//46.101.113.201:6090/dash-fig1" width="100%" height="400"></iframe>
 
 <h1>Difficulties</h1>
 <p>
@@ -118,12 +118,6 @@ summer and autumn there is much more un seasonal consumption.
   - Not all reviews for recipes were on the scrapped websites in infolab's dataset: only the first (~10-15) first reviews were displayed and scrapped. Our analysis could be more precise with all the reviews for each recipe.
 </p>
 
-
-<iframe src="//46.101.113.201:6090/dash-fig1" width="100%" height="400">hmm kay</iframe>
-
-<p>
-  <a href="http://46.101.113.201:6090/dash-fig1"  target="_blank">External link</a>
-</p>
 
 
 <h1>Citations</h1>
