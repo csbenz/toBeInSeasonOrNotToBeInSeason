@@ -93,7 +93,7 @@ summer and autumn there is much more un seasonal consumption.
 <h1>Results</h1>
 
 <p>
-  Due to a shortage of time before the deadline, we were not able to display our visualizations in html. Here are some screenshots of the graph instead.
+  Due to a shortage of time before the deadline, we were not able to display our visualizations in html. Here are some screenshots of the graph instead, which was created with Dash for plotly. It is possible to select the month with a slider below the graph, and observe the score for each food on a logarithmic scale. The higher the score, the greater the chance it's a seasonal food.
 </p>
 
 <img src="sc1.jpeg" >
