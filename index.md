@@ -134,5 +134,14 @@ We base our data on user rating dates from large cooking recipe websites which w
 
 <h1>Conclusion</h1>
 
+<h1>Citations</h1>
+
+@inproceedings{WestWhiteHorvitzWWW2013,
+  title={		From Cookies to Cooks: Insights on Dietary Patterns via Analysis of Web Usage Logs},
+  author={		Robert West and Ryen W. White and Eric Horvitz},
+  booktitle={	Proceedings of the 22nd International World Wide Web Conference},
+  year={		2013}
+}
+
 <iframe src="map_test.html" width="100%" height="400"></iframe>
 
