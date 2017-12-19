@@ -20,7 +20,8 @@
 
 <h1>Results</h1>
 
-<iframe src="us_map.html" width="100%" height="400">hmm kay</iframe>
+<link rel="import" href="us_map.html">
+<!--<iframe src="us_map.html" width="100%" height="400">hmm kay</iframe>-->
 
 
 
