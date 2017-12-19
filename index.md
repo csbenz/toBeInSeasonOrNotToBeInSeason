@@ -158,5 +158,4 @@ We base our data on user rating dates from large cooking recipe websites which w
   year={		2013}
 }
 
-<iframe src="map_test.html" width="100%" height="400"></iframe>
 
