@@ -104,6 +104,18 @@ summer and autumn there is much more un seasonal consumption.
 
 <!--<link rel="import" href="us_map.html">-->
 
+<h1>Difficulties</h1>
+<p>
+  - We ran out of time before the deadline and didn't manage to complete everything we wanted, or clean up the notebook nicely.
+</p>
+<p>
+  - The dataset contained data from many websites, and we had to scrap the data with an individual method for each site. We took only the sites with most data and therefore our analysis contains only 50% of the full dataset data.
+</p>
+<p>
+  - Our matching between ingredients and foods to find the season is not perfect
+</p>
+
+
 <iframe src="//46.101.113.201:6090/dash-fig1" width="100%" height="400">hmm kay</iframe>
 
 <p>
