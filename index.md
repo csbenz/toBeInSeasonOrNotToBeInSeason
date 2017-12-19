@@ -75,8 +75,6 @@ the time to the closest season month. This metric also allows to estimate how fa
 production of the food in question has to be to accommodate thermal requirements.
 </p>
 
-….map…
-
 <p>
 Another way to visualize the data is to plot the foods against the consumption. That is what the
 second visualization is striving to achieve. Unfortunately for this purpose the “seasonal food
