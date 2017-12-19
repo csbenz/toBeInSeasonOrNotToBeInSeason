@@ -112,7 +112,10 @@ summer and autumn there is much more un seasonal consumption.
   - The dataset contained data from many websites, and we had to scrap the data with an individual method for each site. We took only the sites with most data and therefore our analysis contains only 50% of the full dataset data.
 </p>
 <p>
-  - Our matching between ingredients and foods to find the season is not perfect
+  - Our matching between ingredients and foods to find the season is not perfect and can have some misses
+</p>
+<p>
+  - Not all reviews for recipes were on the scrapped websites in infolab's dataset: only the first (~10-15) first reviews were displayed and scrapped. Our analysis could be more precise with all the reviews for each recipe.
 </p>
 
 
