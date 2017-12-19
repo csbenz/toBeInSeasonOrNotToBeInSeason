@@ -36,15 +36,13 @@ We base our data on user rating dates from large cooking recipe websites which w
 
 
 
-
-
-<script src="https://unpkg.com/jupyter-js-widgets@~2.1.4/dist/embed.js"></script>
+<script src="https://unpkg.com/jupyter-js-widgets@~2.1.5/dist/embed.js"></script>
 <script type="application/vnd.jupyter.widget-state+json">
 {
     "version_major": 1,
     "version_minor": 0,
     "state": {
-        "6549c5d796f843b3bb1445065932f2c3": {
+        "5a2c9aafd69d490b9b76914b61998a88": {
             "model_name": "LayoutModel",
             "model_module": "jupyter-js-widgets",
             "model_module_version": "~2.1.4",
@@ -53,89 +51,7 @@ We base our data on user rating dates from large cooking recipe websites which w
                 "_view_module_version": "~2.1.4"
             }
         },
-        "25347b49c3a344b8bff1c0c10537954e": {
-            "model_name": "VBoxModel",
-            "model_module": "jupyter-js-widgets",
-            "model_module_version": "~2.1.4",
-            "state": {
-                "_dom_classes": [
-                    "widget-interact"
-                ],
-                "_model_module_version": "~2.1.4",
-                "_view_module_version": "~2.1.4",
-                "children": [
-                    "IPY_MODEL_61b6953cd09c4044a927e2d080ab636a",
-                    "IPY_MODEL_4036e0f0cd634979a8bf0ef92571d83d"
-                ],
-                "layout": "IPY_MODEL_6549c5d796f843b3bb1445065932f2c3"
-            }
-        },
-        "514418f658934fde9ad210b0d4779763": {
-            "model_name": "LayoutModel",
-            "model_module": "jupyter-js-widgets",
-            "model_module_version": "~2.1.4",
-            "state": {
-                "_model_module_version": "~2.1.4",
-                "_view_module_version": "~2.1.4"
-            }
-        },
-        "66150f562839423bb2c72f01403ada2d": {
-            "model_name": "SliderStyleModel",
-            "model_module": "jupyter-js-widgets",
-            "model_module_version": "~2.1.4",
-            "state": {
-                "_model_module_version": "~2.1.4",
-                "_view_module_version": "~2.1.4"
-            }
-        },
-        "61b6953cd09c4044a927e2d080ab636a": {
-            "model_name": "IntSliderModel",
-            "model_module": "jupyter-js-widgets",
-            "model_module_version": "~2.1.4",
-            "state": {
-                "_model_module_version": "~2.1.4",
-                "_view_module_version": "~2.1.4",
-                "description": "x",
-                "layout": "IPY_MODEL_514418f658934fde9ad210b0d4779763",
-                "max": 27,
-                "min": -9,
-                "style": "IPY_MODEL_66150f562839423bb2c72f01403ada2d",
-                "value": 24
-            }
-        },
-        "68e34158a67e4b2b85252f39d7ed6562": {
-            "model_name": "LayoutModel",
-            "model_module": "jupyter-js-widgets",
-            "model_module_version": "~2.1.4",
-            "state": {
-                "_model_module_version": "~2.1.4",
-                "_view_module_version": "~2.1.4"
-            }
-        },
-        "4036e0f0cd634979a8bf0ef92571d83d": {
-            "model_name": "OutputModel",
-            "model_module": "jupyter-js-widgets",
-            "model_module_version": "~2.1.4",
-            "state": {
-                "_dom_classes": [],
-                "_model_module": "jupyter-js-widgets",
-                "_model_module_version": "~2.1.4",
-                "_view_module": "jupyter-js-widgets",
-                "_view_module_version": "~2.1.4",
-                "layout": "IPY_MODEL_68e34158a67e4b2b85252f39d7ed6562",
-                "msg_throttle": 1
-            }
-        },
-        "ded39e9b125442aaaa4cf97a06d57866": {
-            "model_name": "LayoutModel",
-            "model_module": "jupyter-js-widgets",
-            "model_module_version": "~2.1.4",
-            "state": {
-                "_model_module_version": "~2.1.4",
-                "_view_module_version": "~2.1.4"
-            }
-        },
-        "05789e9ca4de4d2fb885373e7c5e4f57": {
+        "72b3de62e8f64b1f8b889660ef7a4ad1": {
             "model_name": "DropdownModel",
             "model_module": "jupyter-js-widgets",
             "model_module_version": "~2.1.4",
@@ -157,11 +73,11 @@ We base our data on user rating dates from large cooking recipe websites which w
                 ],
                 "_view_module_version": "~2.1.4",
                 "description": "Month:",
-                "layout": "IPY_MODEL_ded39e9b125442aaaa4cf97a06d57866",
+                "layout": "IPY_MODEL_5a2c9aafd69d490b9b76914b61998a88",
                 "value": "january"
             }
         },
-        "869bb93145cd413597d1d81f903fbf41": {
+        "d1112cc7b0204ebca622a2746977bde8": {
             "model_name": "LayoutModel",
             "model_module": "jupyter-js-widgets",
             "model_module_version": "~2.1.4",
@@ -170,7 +86,7 @@ We base our data on user rating dates from large cooking recipe websites which w
                 "_view_module_version": "~2.1.4"
             }
         },
-        "785a31bd47de4c029b15bf0db5cf4fe8": {
+        "f9d09e9b6bd841729368f3730932feb3": {
             "model_name": "VBoxModel",
             "model_module": "jupyter-js-widgets",
             "model_module_version": "~2.1.4",
@@ -181,13 +97,13 @@ We base our data on user rating dates from large cooking recipe websites which w
                 "_model_module_version": "~2.1.4",
                 "_view_module_version": "~2.1.4",
                 "children": [
-                    "IPY_MODEL_05789e9ca4de4d2fb885373e7c5e4f57",
-                    "IPY_MODEL_bbeac041fe4d4987827a6cd0b6382292"
+                    "IPY_MODEL_72b3de62e8f64b1f8b889660ef7a4ad1",
+                    "IPY_MODEL_a2e56c06104f4d33bf4df96b9af82208"
                 ],
-                "layout": "IPY_MODEL_869bb93145cd413597d1d81f903fbf41"
+                "layout": "IPY_MODEL_d1112cc7b0204ebca622a2746977bde8"
             }
         },
-        "3e65bf111419438d8ff2db53226ffc83": {
+        "82078cd619554c0aa044dffdc36fcb00": {
             "model_name": "LayoutModel",
             "model_module": "jupyter-js-widgets",
             "model_module_version": "~2.1.4",
@@ -196,7 +112,7 @@ We base our data on user rating dates from large cooking recipe websites which w
                 "_view_module_version": "~2.1.4"
             }
         },
-        "bbeac041fe4d4987827a6cd0b6382292": {
+        "a2e56c06104f4d33bf4df96b9af82208": {
             "model_name": "OutputModel",
             "model_module": "jupyter-js-widgets",
             "model_module_version": "~2.1.4",
@@ -206,91 +122,7 @@ We base our data on user rating dates from large cooking recipe websites which w
                 "_model_module_version": "~2.1.4",
                 "_view_module": "jupyter-js-widgets",
                 "_view_module_version": "~2.1.4",
-                "layout": "IPY_MODEL_3e65bf111419438d8ff2db53226ffc83",
-                "msg_throttle": 1
-            }
-        },
-        "be5004e3e74447e7982924b67dae57e8": {
-            "model_name": "LayoutModel",
-            "model_module": "jupyter-js-widgets",
-            "model_module_version": "~2.1.4",
-            "state": {
-                "_model_module_version": "~2.1.4",
-                "_view_module_version": "~2.1.4"
-            }
-        },
-        "a470af1e09144302b24c5815ebc68822": {
-            "model_name": "DropdownModel",
-            "model_module": "jupyter-js-widgets",
-            "model_module_version": "~2.1.4",
-            "state": {
-                "_model_module_version": "~2.1.4",
-                "_options_labels": [
-                    "january",
-                    "february",
-                    "march",
-                    "april",
-                    "may",
-                    "june",
-                    "july",
-                    "august",
-                    "september",
-                    "october",
-                    "november",
-                    "december"
-                ],
-                "_view_module_version": "~2.1.4",
-                "description": "Month:",
-                "layout": "IPY_MODEL_be5004e3e74447e7982924b67dae57e8",
-                "value": "january"
-            }
-        },
-        "49f56046a2ab46ac84d8ba7da832bd96": {
-            "model_name": "LayoutModel",
-            "model_module": "jupyter-js-widgets",
-            "model_module_version": "~2.1.4",
-            "state": {
-                "_model_module_version": "~2.1.4",
-                "_view_module_version": "~2.1.4"
-            }
-        },
-        "eff5fd3dadb747a09cf4ab753961daf1": {
-            "model_name": "VBoxModel",
-            "model_module": "jupyter-js-widgets",
-            "model_module_version": "~2.1.4",
-            "state": {
-                "_dom_classes": [
-                    "widget-interact"
-                ],
-                "_model_module_version": "~2.1.4",
-                "_view_module_version": "~2.1.4",
-                "children": [
-                    "IPY_MODEL_a470af1e09144302b24c5815ebc68822",
-                    "IPY_MODEL_e6eaeb0adb67423aadf82ef7bab9a18b"
-                ],
-                "layout": "IPY_MODEL_49f56046a2ab46ac84d8ba7da832bd96"
-            }
-        },
-        "449c10ef21694b5aa4d116dd316a739c": {
-            "model_name": "LayoutModel",
-            "model_module": "jupyter-js-widgets",
-            "model_module_version": "~2.1.4",
-            "state": {
-                "_model_module_version": "~2.1.4",
-                "_view_module_version": "~2.1.4"
-            }
-        },
-        "e6eaeb0adb67423aadf82ef7bab9a18b": {
-            "model_name": "OutputModel",
-            "model_module": "jupyter-js-widgets",
-            "model_module_version": "~2.1.4",
-            "state": {
-                "_dom_classes": [],
-                "_model_module": "jupyter-js-widgets",
-                "_model_module_version": "~2.1.4",
-                "_view_module": "jupyter-js-widgets",
-                "_view_module_version": "~2.1.4",
-                "layout": "IPY_MODEL_449c10ef21694b5aa4d116dd316a739c",
+                "layout": "IPY_MODEL_82078cd619554c0aa044dffdc36fcb00",
                 "msg_throttle": 1
             }
         }
@@ -299,15 +131,14 @@ We base our data on user rating dates from large cooking recipe websites which w
 </script>
 <script type="application/vnd.jupyter.widget-view+json">
 {
-    "model_id": "eff5fd3dadb747a09cf4ab753961daf1"
+    "model_id": "f9d09e9b6bd841729368f3730932feb3"
 }
 </script>
 <script type="application/vnd.jupyter.widget-view+json">
 {
-    "model_id": "a470af1e09144302b24c5815ebc68822"
+    "model_id": "72b3de62e8f64b1f8b889660ef7a4ad1"
 }
 </script>
-
 
 
 
