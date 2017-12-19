@@ -92,7 +92,15 @@ summer and autumn there is much more un seasonal consumption.
 
 <h1>Results</h1>
 
+<p>
+  Due to a shortage of time before the deadline, we were not able to display our visualizations in html. Here are some screenshots of the graph instead.
+</p>
+
 <img src="sc1.jpeg" >
+
+<img src="sc2.jpeg" >
+
+<img src="sc3.jpeg" >
 
 <!--<link rel="import" href="us_map.html">-->
 
