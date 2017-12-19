@@ -3,6 +3,7 @@
 <p>
   <strong>By Kate Dopito, Fabien Zellweger & Christopher Benz</strong>
 </p>
+
 <p>
   <em>Data story for the end-of-semester project of the ADA course at EPFL.</em>
 </p>
