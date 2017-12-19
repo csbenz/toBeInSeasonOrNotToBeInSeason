@@ -77,6 +77,7 @@ production of the food in question has to be to accommodate thermal requirements
 
 ….map…
 
+<p>
 Another way to visualize the data is to plot the foods against the consumption. That is what the
 second visualization is striving to achieve. Unfortunately for this purpose the “seasonal food
 guide” was no good as it significantly raised the score of the food that month, what didn’t
@@ -87,7 +88,7 @@ We can see that garlic seems to be highly consumed no matter the season. That co
 possibly be explained by the fact that it is usually used as spice. Otherwise consumption at the
 correct season seems to dominate during the late winter and spring months, while during
 summer and autumn there is much more un seasonal consumption.
-
+</p>
 
 <h1>Results</h1>
 
@@ -99,10 +100,6 @@ summer and autumn there is much more un seasonal consumption.
   <a href="http://46.101.113.201:6090/dash-fig1"  target="_blank">External link</a>
 </p>
 
-
-
-
-<h1>Conclusion</h1>
 
 <h1>Citations</h1>
 
