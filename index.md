@@ -92,6 +92,8 @@ summer and autumn there is much more un seasonal consumption.
 
 <h1>Results</h1>
 
+<img src="sc1.jpeg" >
+
 <!--<link rel="import" href="us_map.html">-->
 
 <iframe src="//46.101.113.201:6090/dash-fig1" width="100%" height="400">hmm kay</iframe>
