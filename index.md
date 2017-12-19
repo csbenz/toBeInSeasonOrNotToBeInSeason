@@ -1,7 +1,7 @@
 ## To be in season or not to be in season: a food consumption analysis
 
 <p>
-  <strong>By Kate Dopito, Fabien Zellweger & Christopher Benz</strong>
+  <strong>By Kate Dopiro, Fabien Zellweger & Christopher Benz</strong>
 </p>
 
 <p>
