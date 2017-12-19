@@ -28,7 +28,6 @@ We base our data on user rating dates from large cooking recipe websites which w
 <h1>Results</h1>
 
 <!--<link rel="import" href="us_map.html">-->
-<!--<iframe src="us_map.html" width="100%" height="400">hmm kay</iframe>-->
 
 <iframe src="//46.101.113.201:6090/dash-fig1" width="100%" height="400">hmm kay</iframe>
 
